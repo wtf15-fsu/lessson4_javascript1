@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 15th, 2018
 
 ### Student Name:  
-(First and Last Name)
+William Fuller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using the template, create a monthly expense calculator from the given
+specifications by adding the proper HTML and JavaScript code to the project. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/wtf15-fsu/lessson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create JavaScript files that interact with HTML
+2. Proper nomenclature for methods and variables within JavaScript
+3. Using JavaScript to display dynamic content within a web browser
 
 
 
